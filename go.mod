@@ -3,6 +3,7 @@ module github.com/mmcdole/gofeed
 go 1.14
 
 require (
+	github.com/EDDYCJY/fake-useragent v0.2.0 // indirect
 	github.com/PuerkitoBio/goquery v1.5.1
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/json-iterator/go v1.1.10
